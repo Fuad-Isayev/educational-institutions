@@ -1,0 +1,12 @@
+.sidebar {
+    text-align: start;
+}
+
+.sidebar header {
+    text-align: center;
+}
+
+.sidebar ul li {
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}

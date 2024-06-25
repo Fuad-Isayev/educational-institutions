@@ -1,0 +1,15 @@
+.deleteDialog .control {
+    display: flex;
+    justify-content: center;
+}
+
+.deleteDialog .control button {
+    margin: 0 10px;
+}
+
+.deleteDialog .control .positive {
+    background-color: #00009b;
+}
+.deleteDialog .control .negative {
+    background-color: red;
+}

@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    color: #00009b;
+    text-transform: uppercase;
+}
+
+.header nav {
+    position: absolute;
+    right: 21.448px;
+    top: 21.448px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+}

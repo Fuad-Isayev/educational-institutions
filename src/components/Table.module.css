@@ -1,0 +1,29 @@
+.table table {
+    width: 100%;
+    background-color: #f0f0fa;
+}
+
+.table th {
+    text-transform: capitalize;
+}
+
+.table th, .table td {
+    border: 1px solid #00009b;
+    height: 32px;
+}
+
+.table svg {
+    cursor: pointer;
+}
+
+.table .deleteIcon svg {
+    color: red; 
+}
+
+.table .pagination {
+    margin-top: 10px;
+}
+
+.table .pagination button {
+    margin: 0 5px;
+}

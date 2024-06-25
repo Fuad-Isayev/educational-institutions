@@ -1,0 +1,23 @@
+.filters {
+    display: flex;
+    text-transform: capitalize;
+    padding-bottom: 24px;
+}
+
+.filters .filter {
+    margin-right: 10px;
+}
+
+.filters button {
+    margin-left: 64px;
+}
+
+.filters label {
+    margin-right: 10px;
+}
+
+.filters input, .filters select, .filters option {
+    padding: 5px;
+    border-radius: 5px;
+    text-transform: capitalize;
+}

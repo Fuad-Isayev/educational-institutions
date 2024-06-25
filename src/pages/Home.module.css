@@ -1,0 +1,21 @@
+.home section {
+    display: flex;
+    
+}
+
+.home {
+    color: #00009b;
+}
+
+.home h1 {
+    text-transform: uppercase;
+}
+
+.home aside {
+    width: 200px;
+    border-right: 1px solid #00009b;
+}
+
+.home main {
+    width: 100%;
+}

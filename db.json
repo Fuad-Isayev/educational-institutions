@@ -1,0 +1,1273 @@
+{
+  "universities": [
+    {
+      "id": "1",
+      "name": "University A",
+      "region": "North",
+      "founded": 1900,
+      "student_count": 20000,
+      "corpus": [
+        "Corpus A1",
+        "Corpus A2",
+        "Corpus A3"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "University B",
+      "region": "East",
+      "founded": 1920,
+      "student_count": 15000,
+      "corpus": [
+        "Corpus B1",
+        "Corpus B2"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "University C",
+      "region": "West",
+      "founded": 1950,
+      "student_count": 22000,
+      "corpus": [
+        "Corpus C1",
+        "Corpus C2",
+        "Corpus C3",
+        "Corpus C4"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "University D",
+      "region": "South",
+      "founded": 1970,
+      "student_count": 18000,
+      "corpus": [
+        "Corpus D1",
+        "Corpus D2"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "University E",
+      "region": "East",
+      "founded": 1965,
+      "student_count": 21000,
+      "corpus": [
+        "Corpus E1",
+        "Corpus E2",
+        "Corpus E3"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "University F",
+      "region": "North",
+      "founded": 1930,
+      "student_count": 17000,
+      "corpus": [
+        "Corpus F1",
+        "Corpus F2"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "University G",
+      "region": "West",
+      "founded": 1945,
+      "student_count": 16000,
+      "corpus": [
+        "Corpus G1",
+        "Corpus G2",
+        "Corpus G3"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "University H",
+      "region": "South",
+      "founded": 1985,
+      "student_count": 14000,
+      "corpus": [
+        "Corpus H1",
+        "Corpus H2",
+        "Corpus H3"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "University I",
+      "region": "East",
+      "founded": 1990,
+      "student_count": 13000,
+      "corpus": [
+        "Corpus I1",
+        "Corpus I2"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "University J",
+      "region": "North",
+      "founded": 2000,
+      "student_count": 12000,
+      "corpus": [
+        "Corpus J1",
+        "Corpus J2",
+        "Corpus J3"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "University K",
+      "region": "West",
+      "founded": 1910,
+      "student_count": 25000,
+      "corpus": [
+        "Corpus K1",
+        "Corpus K2"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "University L",
+      "region": "South",
+      "founded": 1925,
+      "student_count": 23000,
+      "corpus": [
+        "Corpus L1",
+        "Corpus L2",
+        "Corpus L3"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "University M",
+      "region": "North",
+      "founded": 1940,
+      "student_count": 21000,
+      "corpus": [
+        "Corpus M1",
+        "Corpus M2"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "University N",
+      "region": "East",
+      "founded": 1935,
+      "student_count": 19000,
+      "corpus": [
+        "Corpus N1",
+        "Corpus N2",
+        "Corpus N3"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "University O",
+      "region": "West",
+      "founded": 1975,
+      "student_count": 17000,
+      "corpus": [
+        "Corpus O1",
+        "Corpus O2"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "University P",
+      "region": "South",
+      "founded": 1960,
+      "student_count": 15000,
+      "corpus": [
+        "Corpus P1",
+        "Corpus P2",
+        "Corpus P3"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "University Q",
+      "region": "North",
+      "founded": 1955,
+      "student_count": 13000,
+      "corpus": [
+        "Corpus Q1",
+        "Corpus Q2"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "University R",
+      "region": "East",
+      "founded": 1945,
+      "student_count": 12000,
+      "corpus": [
+        "Corpus R1",
+        "Corpus R2",
+        "Corpus R3"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "University S",
+      "region": "West",
+      "founded": 1980,
+      "student_count": 11000,
+      "corpus": [
+        "Corpus S1",
+        "Corpus S2"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "University T",
+      "region": "South",
+      "founded": 1995,
+      "student_count": 10000,
+      "corpus": [
+        "Corpus T1",
+        "Corpus T2",
+        "Corpus T3"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "University U",
+      "region": "North",
+      "founded": 1920,
+      "student_count": 9000,
+      "corpus": [
+        "Corpus U1",
+        "Corpus U2"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "University V",
+      "region": "East",
+      "founded": 1930,
+      "student_count": 8000,
+      "corpus": [
+        "Corpus V1",
+        "Corpus V2",
+        "Corpus V3"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "University W",
+      "region": "West",
+      "founded": 1940,
+      "student_count": 7000,
+      "corpus": [
+        "Corpus W1",
+        "Corpus W2"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "University X",
+      "region": "South",
+      "founded": 1950,
+      "student_count": 6000,
+      "corpus": [
+        "Corpus X1",
+        "Corpus X2",
+        "Corpus X3"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "University Y",
+      "region": "North",
+      "founded": 1960,
+      "student_count": 5000,
+      "corpus": [
+        "Corpus Y1",
+        "Corpus Y2"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "University Z",
+      "region": "East",
+      "founded": 1970,
+      "student_count": 4000,
+      "corpus": [
+        "Corpus Z1",
+        "Corpus Z2",
+        "Corpus Z3"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "University AA",
+      "region": "West",
+      "founded": 1980,
+      "student_count": 3000,
+      "corpus": [
+        "Corpus AA1",
+        "Corpus AA2"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "University BB",
+      "region": "South",
+      "founded": 1990,
+      "student_count": 2000,
+      "corpus": [
+        "Corpus BB1",
+        "Corpus BB2",
+        "Corpus BB3"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "University CC",
+      "region": "North",
+      "founded": 2000,
+      "student_count": 1000,
+      "corpus": [
+        "Corpus CC1",
+        "Corpus CC2"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "University DD",
+      "region": "East",
+      "founded": 1910,
+      "student_count": 25000,
+      "corpus": [
+        "Corpus DD1",
+        "Corpus DD2",
+        "Corpus DD3"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "University EE",
+      "region": "West",
+      "founded": 1925,
+      "student_count": 23000,
+      "corpus": [
+        "Corpus EE1",
+        "Corpus EE2"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "University FF",
+      "region": "South",
+      "founded": 1935,
+      "student_count": 21000,
+      "corpus": [
+        "Corpus FF1",
+        "Corpus FF2",
+        "Corpus FF3"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "University GG",
+      "region": "North",
+      "founded": 1945,
+      "student_count": 19000,
+      "corpus": [
+        "Corpus GG1",
+        "Corpus GG2"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "University HH",
+      "region": "East",
+      "founded": 1955,
+      "student_count": 17000,
+      "corpus": [
+        "Corpus HH1",
+        "Corpus HH2",
+        "Corpus HH3"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "University II",
+      "region": "West",
+      "founded": 1965,
+      "student_count": 15000,
+      "corpus": [
+        "Corpus II1",
+        "Corpus II2"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "University JJ",
+      "region": "South",
+      "founded": 1975,
+      "student_count": 13000,
+      "corpus": [
+        "Corpus JJ1",
+        "Corpus JJ2",
+        "Corpus JJ3"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "University KK",
+      "region": "North",
+      "founded": 1985,
+      "student_count": 11000,
+      "corpus": [
+        "Corpus KK1",
+        "Corpus KK2"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "University LL",
+      "region": "East",
+      "founded": 1995,
+      "student_count": 10000,
+      "corpus": [
+        "Corpus LL1",
+        "Corpus LL2",
+        "Corpus LL3"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "University MM",
+      "region": "West",
+      "founded": 2005,
+      "student_count": 9000,
+      "corpus": [
+        "Corpus MM1",
+        "Corpus MM2"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "University NN",
+      "region": "South",
+      "founded": 1915,
+      "student_count": 8000,
+      "corpus": [
+        "Corpus NN1",
+        "Corpus NN2",
+        "Corpus NN3"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "University OO",
+      "region": "North",
+      "founded": 1925,
+      "student_count": 7000,
+      "corpus": [
+        "Corpus OO1",
+        "Corpus OO2"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "University PP",
+      "region": "East",
+      "founded": 1935,
+      "student_count": 6000,
+      "corpus": [
+        "Corpus PP1",
+        "Corpus PP2",
+        "Corpus PP3"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "University QQ",
+      "region": "West",
+      "founded": 1945,
+      "student_count": 5000,
+      "corpus": [
+        "Corpus QQ1",
+        "Corpus QQ2"
+      ]
+    },
+    {
+      "id": "44",
+      "name": "University RR",
+      "region": "North",
+      "founded": 1955,
+      "student_count": 4000,
+      "corpus": [
+        "Corpus RR1",
+        "Corpus RR2",
+        "Corpus RR3"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "University SS",
+      "region": "South",
+      "founded": 1965,
+      "student_count": 3000,
+      "corpus": [
+        "Corpus SS1",
+        "Corpus SS2"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "University TT",
+      "region": "East",
+      "founded": 1975,
+      "student_count": 2000,
+      "corpus": [
+        "Corpus TT1",
+        "Corpus TT2",
+        "Corpus TT3"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "University UU",
+      "region": "West",
+      "founded": 1985,
+      "student_count": 1000,
+      "corpus": [
+        "Corpus UU1",
+        "Corpus UU2"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "University VV",
+      "region": "North",
+      "founded": 1995,
+      "student_count": 9500,
+      "corpus": [
+        "Corpus VV1",
+        "Corpus VV2",
+        "Corpus VV3"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "University WW",
+      "region": "South",
+      "founded": 2005,
+      "student_count": 8500,
+      "corpus": [
+        "Corpus WW1",
+        "Corpus WW2"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "id": "1",
+      "name": "School A",
+      "location": "City A",
+      "founded": 1980,
+      "student_count": 500
+    },
+    {
+      "id": "2",
+      "name": "School B",
+      "location": "City B",
+      "founded": 1975,
+      "student_count": 450
+    },
+    {
+      "id": "3",
+      "name": "School C",
+      "location": "City C",
+      "founded": 1990,
+      "student_count": 550
+    },
+    {
+      "id": "4",
+      "name": "School D",
+      "location": "City D",
+      "founded": 2000,
+      "student_count": 600
+    },
+    {
+      "id": "5",
+      "name": "School E",
+      "location": "City E",
+      "founded": 1985,
+      "student_count": 480
+    },
+    {
+      "id": "6",
+      "name": "School F",
+      "location": "City F",
+      "founded": 1995,
+      "student_count": 520
+    },
+    {
+      "id": "7",
+      "name": "School G",
+      "location": "City G",
+      "founded": 1970,
+      "student_count": 490
+    },
+    {
+      "id": "8",
+      "name": "School H",
+      "location": "City H",
+      "founded": 1988,
+      "student_count": 510
+    },
+    {
+      "id": "9",
+      "name": "School I",
+      "location": "City I",
+      "founded": 1993,
+      "student_count": 530
+    },
+    {
+      "id": "10",
+      "name": "School J",
+      "location": "City J",
+      "founded": 1977,
+      "student_count": 470
+    },
+    {
+      "id": "11",
+      "name": "School K",
+      "location": "City K",
+      "founded": 1981,
+      "student_count": 460
+    },
+    {
+      "id": "12",
+      "name": "School L",
+      "location": "City L",
+      "founded": 1984,
+      "student_count": 450
+    },
+    {
+      "id": "13",
+      "name": "School M",
+      "location": "City M",
+      "founded": 1987,
+      "student_count": 440
+    },
+    {
+      "id": "14",
+      "name": "School N",
+      "location": "City N",
+      "founded": 1992,
+      "student_count": 430
+    },
+    {
+      "id": "15",
+      "name": "School O",
+      "location": "City O",
+      "founded": 1996,
+      "student_count": 420
+    },
+    {
+      "id": "16",
+      "name": "School P",
+      "location": "City P",
+      "founded": 1983,
+      "student_count": 410
+    },
+    {
+      "id": "17",
+      "name": "School Q",
+      "location": "City Q",
+      "founded": 1982,
+      "student_count": 400
+    },
+    {
+      "id": "18",
+      "name": "School R",
+      "location": "City R",
+      "founded": 1986,
+      "student_count": 390
+    },
+    {
+      "id": "19",
+      "name": "School S",
+      "location": "City S",
+      "founded": 1989,
+      "student_count": 380
+    },
+    {
+      "id": "20",
+      "name": "School T",
+      "location": "City T",
+      "founded": 1991,
+      "student_count": 370
+    },
+    {
+      "id": "21",
+      "name": "School U",
+      "location": "City U",
+      "founded": 1994,
+      "student_count": 360
+    },
+    {
+      "id": "22",
+      "name": "School V",
+      "location": "City V",
+      "founded": 1997,
+      "student_count": 350
+    },
+    {
+      "id": "23",
+      "name": "School W",
+      "location": "City W",
+      "founded": 1999,
+      "student_count": 340
+    },
+    {
+      "id": "24",
+      "name": "School X",
+      "location": "City X",
+      "founded": 2002,
+      "student_count": 330
+    },
+    {
+      "id": "25",
+      "name": "School Y",
+      "location": "City Y",
+      "founded": 2005,
+      "student_count": 320
+    },
+    {
+      "id": "26",
+      "name": "School Z",
+      "location": "City Z",
+      "founded": 2008,
+      "student_count": 310
+    },
+    {
+      "id": "27",
+      "name": "School AA",
+      "location": "City AA",
+      "founded": 2010,
+      "student_count": 300
+    },
+    {
+      "id": "28",
+      "name": "School BB",
+      "location": "City BB",
+      "founded": 2012,
+      "student_count": 290
+    },
+    {
+      "id": "29",
+      "name": "School CC",
+      "location": "City CC",
+      "founded": 2014,
+      "student_count": 280
+    },
+    {
+      "id": "30",
+      "name": "School DD",
+      "location": "City DD",
+      "founded": 2016,
+      "student_count": 270
+    },
+    {
+      "id": "31",
+      "name": "School EE",
+      "location": "City EE",
+      "founded": 2018,
+      "student_count": 260
+    },
+    {
+      "id": "32",
+      "name": "School FF",
+      "location": "City FF",
+      "founded": 2020,
+      "student_count": 250
+    },
+    {
+      "id": "33",
+      "name": "School GG",
+      "location": "City GG",
+      "founded": 2021,
+      "student_count": 240
+    },
+    {
+      "id": "34",
+      "name": "School HH",
+      "location": "City HH",
+      "founded": 2022,
+      "student_count": 230
+    },
+    {
+      "id": "35",
+      "name": "School II",
+      "location": "City II",
+      "founded": 2023,
+      "student_count": 220
+    },
+    {
+      "id": "36",
+      "name": "School JJ",
+      "location": "City JJ",
+      "founded": 1982,
+      "student_count": 210
+    },
+    {
+      "id": "37",
+      "name": "School KK",
+      "location": "City KK",
+      "founded": 1983,
+      "student_count": 200
+    },
+    {
+      "id": "38",
+      "name": "School LL",
+      "location": "City LL",
+      "founded": 1984,
+      "student_count": 190
+    },
+    {
+      "id": "39",
+      "name": "School MM",
+      "location": "City MM",
+      "founded": 1985,
+      "student_count": 180
+    },
+    {
+      "id": "40",
+      "name": "School NN",
+      "location": "City NN",
+      "founded": 1986,
+      "student_count": 170
+    },
+    {
+      "id": "41",
+      "name": "School OO",
+      "location": "City OO",
+      "founded": 1987,
+      "student_count": 160
+    },
+    {
+      "id": "42",
+      "name": "School PP",
+      "location": "City PP",
+      "founded": 1988,
+      "student_count": 150
+    },
+    {
+      "id": "43",
+      "name": "School QQ",
+      "location": "City QQ",
+      "founded": 1989,
+      "student_count": 140
+    },
+    {
+      "id": "44",
+      "name": "School RR",
+      "location": "City RR",
+      "founded": 1990,
+      "student_count": 130
+    },
+    {
+      "id": "45",
+      "name": "School SS",
+      "location": "City SS",
+      "founded": 1991,
+      "student_count": 120
+    },
+    {
+      "id": "46",
+      "name": "School TT",
+      "location": "City TT",
+      "founded": 1992,
+      "student_count": 110
+    },
+    {
+      "id": "47",
+      "name": "School UU",
+      "location": "City UU",
+      "founded": 1993,
+      "student_count": 100
+    },
+    {
+      "id": "48",
+      "name": "School VV",
+      "location": "City VV",
+      "founded": 1994,
+      "student_count": 90
+    },
+    {
+      "id": "49",
+      "name": "School WW",
+      "location": "City WW",
+      "founded": 1995,
+      "student_count": 80
+    },
+    {
+      "id": "50",
+      "name": "School XX",
+      "location": "City XX",
+      "founded": 1996,
+      "student_count": 70
+    }
+  ],
+  "highschools": [
+    {
+      "id": "1",
+      "name": "High School A",
+      "location": "City A",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1200
+    },
+    {
+      "id": "2",
+      "name": "High School B",
+      "location": "City B",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1150
+    },
+    {
+      "id": "3",
+      "name": "High School C",
+      "location": "City C",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1250
+    },
+    {
+      "id": "4",
+      "name": "High School D",
+      "location": "City D",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1300
+    },
+    {
+      "id": "5",
+      "name": "High School E",
+      "location": "City E",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1180
+    },
+    {
+      "id": "6",
+      "name": "High School F",
+      "location": "City F",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1220
+    },
+    {
+      "id": "7",
+      "name": "High School G",
+      "location": "City G",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1190
+    },
+    {
+      "id": "8",
+      "name": "High School H",
+      "location": "City H",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1210
+    },
+    {
+      "id": "9",
+      "name": "High School I",
+      "location": "City I",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1230
+    },
+    {
+      "id": "10",
+      "name": "High School J",
+      "location": "City J",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1170
+    },
+    {
+      "id": "11",
+      "name": "High School K",
+      "location": "City K",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1160
+    },
+    {
+      "id": "12",
+      "name": "High School L",
+      "location": "City L",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1150
+    },
+    {
+      "id": "13",
+      "name": "High School M",
+      "location": "City M",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1140
+    },
+    {
+      "id": "14",
+      "name": "High School N",
+      "location": "City N",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1130
+    },
+    {
+      "id": "15",
+      "name": "High School O",
+      "location": "City O",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1120
+    },
+    {
+      "id": "16",
+      "name": "High School P",
+      "location": "City P",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1110
+    },
+    {
+      "id": "17",
+      "name": "High School Q",
+      "location": "City Q",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1100
+    },
+    {
+      "id": "18",
+      "name": "High School R",
+      "location": "City R",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1090
+    },
+    {
+      "id": "19",
+      "name": "High School S",
+      "location": "City S",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1080
+    },
+    {
+      "id": "20",
+      "name": "High School T",
+      "location": "City T",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1070
+    },
+    {
+      "id": "21",
+      "name": "High School U",
+      "location": "City U",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1060
+    },
+    {
+      "id": "22",
+      "name": "High School V",
+      "location": "City V",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1050
+    },
+    {
+      "id": "23",
+      "name": "High School W",
+      "location": "City W",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1040
+    },
+    {
+      "id": "24",
+      "name": "High School X",
+      "location": "City X",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1030
+    },
+    {
+      "id": "25",
+      "name": "High School Y",
+      "location": "City Y",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1020
+    },
+    {
+      "id": "26",
+      "name": "High School Z",
+      "location": "City Z",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1010
+    },
+    {
+      "id": "27",
+      "name": "High School AA",
+      "location": "City AA",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 1000
+    },
+    {
+      "id": "28",
+      "name": "High School BB",
+      "location": "City BB",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 990
+    },
+    {
+      "id": "29",
+      "name": "High School CC",
+      "location": "City CC",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 980
+    },
+    {
+      "id": "30",
+      "name": "High School DD",
+      "location": "City DD",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 970
+    },
+    {
+      "id": "31",
+      "name": "High School EE",
+      "location": "City EE",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 960
+    },
+    {
+      "id": "32",
+      "name": "High School FF",
+      "location": "City FF",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 950
+    },
+    {
+      "id": "33",
+      "name": "High School GG",
+      "location": "City GG",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 940
+    },
+    {
+      "id": "34",
+      "name": "High School HH",
+      "location": "City HH",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 930
+    },
+    {
+      "id": "35",
+      "name": "High School II",
+      "location": "City II",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 920
+    },
+    {
+      "id": "36",
+      "name": "High School JJ",
+      "location": "City JJ",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 910
+    },
+    {
+      "id": "37",
+      "name": "High School KK",
+      "location": "City KK",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 900
+    },
+    {
+      "id": "38",
+      "name": "High School LL",
+      "location": "City LL",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 890
+    },
+    {
+      "id": "39",
+      "name": "High School MM",
+      "location": "City MM",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 880
+    },
+    {
+      "id": "40",
+      "name": "High School NN",
+      "location": "City NN",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 870
+    },
+    {
+      "id": "41",
+      "name": "High School OO",
+      "location": "City OO",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 860
+    },
+    {
+      "id": "42",
+      "name": "High School PP",
+      "location": "City PP",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 850
+    },
+    {
+      "id": "43",
+      "name": "High School QQ",
+      "location": "City QQ",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 840
+    },
+    {
+      "id": "44",
+      "name": "High School RR",
+      "location": "City RR",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 830
+    },
+    {
+      "id": "45",
+      "name": "High School SS",
+      "location": "City SS",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 820
+    },
+    {
+      "id": "46",
+      "name": "High School TT",
+      "location": "City TT",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 810
+    },
+    {
+      "id": "47",
+      "name": "High School UU",
+      "location": "City UU",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 800
+    },
+    {
+      "id": "48",
+      "name": "High School VV",
+      "location": "City VV",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 790
+    },
+    {
+      "id": "49",
+      "name": "High School WW",
+      "location": "City WW",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 780
+    },
+    {
+      "id": "50",
+      "name": "High School XX",
+      "location": "City XX",
+      "startOfAcademicYear": "2024-06-20",
+      "student_count": 770
+    }
+  ]
+}
